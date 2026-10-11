@@ -71,3 +71,11 @@ Every destructive operation prompts for confirmation before running. Logs are sa
 The **Setup** module is opinionated — it installs my personal Homebrew formula list, Node versions, and shell config. Fork and edit `FORMULAE`, `CASKS`, and the `~/.zshrc` entries to match your stack before running it.
 
 AWS credentials are never written by the script. The config sets region only; credentials must be copied manually from a secure source.
+
+---
+
+## Media
+
+<img width="1478" height="1438" alt="mac-tools-menu" src="https://github.com/user-attachments/assets/653bbb69-e184-4c0c-a322-665225f39410" />
+<img width="739" height="719" alt="mactool" src="https://github.com/user-attachments/assets/45b3ced1-4bf6-48de-99d6-dd52e2e8eca5" />
+
