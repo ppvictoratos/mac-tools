@@ -76,6 +76,6 @@ AWS credentials are never written by the script. The config sets region only; cr
 
 ## Media
 
-<img width="1478" height="1438" alt="mac-tools-menu" src="https://github.com/user-attachments/assets/653bbb69-e184-4c0c-a322-665225f39410" />
-<img width="739" height="719" alt="mactool" src="https://github.com/user-attachments/assets/45b3ced1-4bf6-48de-99d6-dd52e2e8eca5" />
+<img width="3132" height="1566" alt="mac-tools-combined" src="https://github.com/user-attachments/assets/57f4d4bd-a35a-485a-a3b8-457423af0b5b" />
+
 
